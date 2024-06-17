@@ -38,8 +38,8 @@ ___
 
 1. หน้าแรก
 
-![index]()
+![index](https://github.com/Adisak-KS/Workshop-Search-Filter-Country-API/blob/main/previews/pre-1.png)
 
 2. เมื่อค้นหา
 
-![index]()
+![index](https://github.com/Adisak-KS/Workshop-Search-Filter-Country-API/blob/main/previews/pre-2.png)
